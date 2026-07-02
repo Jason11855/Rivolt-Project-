@@ -1,2 +1,2 @@
 # Rivolt-Project-
-DA SIST RIVOLT! A Discord alternative that makes Nitro free! 
+THIS IS RIVOLT! A Discord alternative that makes Nitro free! 
